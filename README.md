@@ -1,1 +1,1 @@
-Första uppgift
+En uppdaterad version av skolprojektet "receptsida". Denna gång med mer semantisk HTML.
