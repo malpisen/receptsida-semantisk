@@ -17,7 +17,7 @@ body {
     object-fit: cover;
 }
 
-#content {
+main {
     margin: 0 auto 40px auto;
     background-color: #FCFCFC;
     padding: 0 40px 0 40px;
