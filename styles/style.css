@@ -7,14 +7,12 @@ body {
     width: 900px;
     margin: 0 auto 40px auto;
     background-color: #FCFCFC;
-    border: 1px solid #FCFCFC;
 }
 
 #banner {
     margin: 0 auto;
-    width: 900px;
-    height: 400px;
     object-fit: cover;
+    border: 1px solid #FCFCFC;
 }
 
 img {
@@ -35,10 +33,6 @@ h1 {
 #infotext {
     background-color: #EBEBEB;
     padding: 15px;
-}
-
-.normal-font-weight {
-    font-weight: normal;
 }
 
 ul,
