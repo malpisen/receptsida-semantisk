@@ -17,6 +17,10 @@ body {
     object-fit: cover;
 }
 
+img {
+    object-fit: cover;
+}
+
 main {
     margin: 0 auto 40px auto;
     background-color: #FCFCFC;
@@ -33,13 +37,8 @@ h1 {
     padding: 15px;
 }
 
-.ingr-head {
-    display: inline;
-}
-
-p.ingr-head {
-    font-size: 22px;
-    margin-left: 10px;
+.normal-font-weight {
+    font-weight: normal;
 }
 
 ul,
@@ -47,13 +46,11 @@ ol {
     padding: 0 25px;
 }
 
-#bottomimg {
+#img-container {
     display: flex;
     justify-content: space-between;
 }
 
-#bottomimg img {
-    object-fit: cover;
-    width: 400px;
-    height: 330px;
+figure {
+    margin: 0;
 }
